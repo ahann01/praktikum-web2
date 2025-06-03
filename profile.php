@@ -31,16 +31,17 @@
                     <tr>
                         <td align="right" width="50%"><strong>Media Sosial :</strong></td>
                         <td align="left" width="50%">
-                            <a href="http://facebook.com/MR.L4N0R" target="_blank" style="text-decoration:none;">
+                            <a href="http://facebook.com/muhammadfarhan.442833/" target="_blank"
+                                style="text-decoration:none;">
                                 <img src="img/medsos/facebook.svg" width="30" alt="facebook">
                             </a>
-                            <a href="http://instagram.com/its.lan_" target="_blank" style="text-decoration:none;">
+                            <a href="http://instagram.com/ahannn.nahaaa" target="_blank" style="text-decoration:none;">
                                 <img src="img/medsos/instagram.svg" width="30" alt="instagram">
                             </a>
-                            <a href="http://twitter.com/MR.L4N0R" target="_blank" style="text-decoration:none;">
+                            <a href="http://x.com/Muhamma47996801" target="_blank" style="text-decoration:none;">
                                 <img src="img/medsos/twitter.svg" width="30" alt="twitter">
                             </a>
-                            <a href="https://www.linkedin.com/in/muhammad-maulana-ab84b9360/" target="_blank">
+                            <a href="https://www.linkedin.com/in/muhammad-farhan-907749369/" target="_blank">
                                 <img src="img/medsos/linkedin.svg" width="30" alt="linkedin">
                             </a>
                         </td>
